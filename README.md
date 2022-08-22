@@ -1,6 +1,6 @@
 # Clock-project
 
-an analog clock built with CSS and javascript
+A simple analog clock built with CSS and javascript
 
 ## Built With
 
